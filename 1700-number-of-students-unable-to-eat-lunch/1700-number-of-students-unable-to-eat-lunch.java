@@ -23,6 +23,6 @@ class Solution {
                 return q.size();
             }
         }
-        return 0;
+        return q.size();
     }
 }
