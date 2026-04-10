@@ -15,6 +15,7 @@
 | [0238-product-of-array-except-self](https://github.com/renishandrick/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/renishandrick/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/renishandrick/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0724-find-pivot-index](https://github.com/renishandrick/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [1472-design-browser-history](https://github.com/renishandrick/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/renishandrick/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Hash Table
@@ -149,4 +150,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/renishandrick/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/renishandrick/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
