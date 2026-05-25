@@ -65,6 +65,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/renishandrick/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/renishandrick/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0649-dota2-senate](https://github.com/renishandrick/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/renishandrick/Leetcode-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/renishandrick/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Linked List
@@ -159,6 +160,7 @@
 | [0125-valid-palindrome](https://github.com/renishandrick/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/renishandrick/Leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0344-reverse-string/) | Easy |
+| [0649-dota2-senate](https://github.com/renishandrick/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +174,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/renishandrick/Leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/renishandrick/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
