@@ -136,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/renishandrick/Leetcode-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0207-course-schedule](https://github.com/renishandrick/Leetcode-problems/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/renishandrick/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Math
@@ -204,4 +205,16 @@
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/renishandrick/Leetcode-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/renishandrick/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/renishandrick/Leetcode-problems/tree/main/0207-course-schedule/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/renishandrick/Leetcode-problems/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/renishandrick/Leetcode-problems/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
