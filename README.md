@@ -23,6 +23,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/renishandrick/Leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/renishandrick/Leetcode-problems/tree/main/0322-coin-change/) | Medium |
 | [0414-third-maximum-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0496-next-greater-element-i](https://github.com/renishandrick/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/renishandrick/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/renishandrick/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
@@ -41,6 +42,7 @@
 | [0169-majority-element](https://github.com/renishandrick/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/renishandrick/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/renishandrick/Leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
+| [0496-next-greater-element-i](https://github.com/renishandrick/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@
 | [0225-implement-stack-using-queues](https://github.com/renishandrick/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/renishandrick/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/renishandrick/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/renishandrick/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/renishandrick/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/renishandrick/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -265,4 +268,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/renishandrick/Leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/renishandrick/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
