@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/renishandrick/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renishandrick/Leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/renishandrick/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/renishandrick/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/renishandrick/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -123,6 +124,7 @@
 | [0125-valid-palindrome](https://github.com/renishandrick/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/renishandrick/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/renishandrick/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/renishandrick/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0344-reverse-string/) | Easy |
@@ -170,6 +172,7 @@
 | [0062-unique-paths](https://github.com/renishandrick/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/renishandrick/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renishandrick/Leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/renishandrick/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
