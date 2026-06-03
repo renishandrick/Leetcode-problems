@@ -12,6 +12,7 @@
 | [0064-minimum-path-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/renishandrick/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renishandrick/Leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/renishandrick/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
@@ -284,4 +285,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1117-building-h2o](https://github.com/renishandrick/Leetcode-problems/tree/main/1117-building-h2o/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
