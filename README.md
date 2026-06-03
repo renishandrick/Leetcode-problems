@@ -76,6 +76,7 @@
 | [0234-palindrome-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/renishandrick/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/renishandrick/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
+| [0901-online-stock-span](https://github.com/renishandrick/Leetcode-problems/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/renishandrick/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/renishandrick/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Design
@@ -84,6 +85,7 @@
 | [0225-implement-stack-using-queues](https://github.com/renishandrick/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/renishandrick/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/0707-design-linked-list/) | Medium |
+| [0901-online-stock-span](https://github.com/renishandrick/Leetcode-problems/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/renishandrick/Leetcode-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/renishandrick/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 ## Queue
@@ -141,6 +143,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/renishandrick/Leetcode-problems/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/renishandrick/Leetcode-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/renishandrick/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 ## Heap (Priority Queue)
@@ -272,6 +275,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/renishandrick/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0901-online-stock-span](https://github.com/renishandrick/Leetcode-problems/tree/main/0901-online-stock-span/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
