@@ -34,6 +34,7 @@
 | [0682-baseball-game](https://github.com/renishandrick/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/renishandrick/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/renishandrick/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/renishandrick/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/renishandrick/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/renishandrick/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -222,6 +223,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/renishandrick/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/renishandrick/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/renishandrick/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +284,7 @@
 | [0074-search-a-2d-matrix](https://github.com/renishandrick/Leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/renishandrick/Leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/renishandrick/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,4 +302,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/renishandrick/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
