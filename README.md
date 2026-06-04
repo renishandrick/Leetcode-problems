@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/renishandrick/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/renishandrick/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/renishandrick/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/renishandrick/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -218,6 +219,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/renishandrick/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/renishandrick/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 ## Trie
@@ -278,6 +280,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/renishandrick/Leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/renishandrick/Leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -292,4 +295,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0136-single-number/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
