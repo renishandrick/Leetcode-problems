@@ -37,6 +37,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/renishandrick/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/renishandrick/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/renishandrick/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/renishandrick/Leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/renishandrick/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/renishandrick/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Hash Table
@@ -71,6 +72,7 @@
 | [0322-coin-change](https://github.com/renishandrick/Leetcode-problems/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/renishandrick/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/renishandrick/Leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,4 +307,5 @@
 | [0209-minimum-size-subarray-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/renishandrick/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/renishandrick/Leetcode-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/renishandrick/Leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->
