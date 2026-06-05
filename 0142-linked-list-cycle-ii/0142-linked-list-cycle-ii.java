@@ -15,7 +15,7 @@ public class Solution {
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
-        while(slow==fast){
+        if(slow==fast){
             fast=head;
             while(slow!=fast){
                 fast=fast.next;
