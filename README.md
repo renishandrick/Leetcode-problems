@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/renishandrick/Leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/renishandrick/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/renishandrick/Leetcode-problems/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/renishandrick/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
@@ -192,6 +193,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/renishandrick/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/renishandrick/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/renishandrick/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renishandrick/Leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -288,6 +290,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/renishandrick/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/renishandrick/Leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/renishandrick/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
