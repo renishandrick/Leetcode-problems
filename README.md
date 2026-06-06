@@ -196,6 +196,7 @@
 | [0070-climbing-stairs](https://github.com/renishandrick/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renishandrick/Leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
+| [0319-bulb-switcher](https://github.com/renishandrick/Leetcode-problems/tree/main/0319-bulb-switcher/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/renishandrick/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -329,4 +330,8 @@
 | [1004-max-consecutive-ones-iii](https://github.com/renishandrick/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/renishandrick/Leetcode-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/renishandrick/Leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/renishandrick/Leetcode-problems/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
