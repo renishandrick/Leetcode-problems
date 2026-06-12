@@ -348,5 +348,6 @@
 | [0584-find-customer-referee](https://github.com/renishandrick/Leetcode-problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/renishandrick/Leetcode-problems/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/renishandrick/Leetcode-problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0607-sales-person](https://github.com/renishandrick/Leetcode-problems/tree/main/0607-sales-person/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/renishandrick/Leetcode-problems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
