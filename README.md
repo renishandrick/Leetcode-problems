@@ -341,5 +341,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/renishandrick/Leetcode-problems/tree/main/0176-second-highest-salary/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/renishandrick/Leetcode-problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/renishandrick/Leetcode-problems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
