@@ -351,6 +351,7 @@
 | [0607-sales-person](https://github.com/renishandrick/Leetcode-problems/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/renishandrick/Leetcode-problems/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0619-biggest-single-number/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/renishandrick/Leetcode-problems/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/renishandrick/Leetcode-problems/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/renishandrick/Leetcode-problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/renishandrick/Leetcode-problems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
