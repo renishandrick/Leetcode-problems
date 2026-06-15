@@ -135,6 +135,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/renishandrick/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@
 | [0344-reverse-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
