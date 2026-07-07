@@ -206,6 +206,7 @@
 | [0189-rotate-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0319-bulb-switcher](https://github.com/renishandrick/Leetcode-problems/tree/main/0319-bulb-switcher/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/renishandrick/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/renishandrick/Leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
