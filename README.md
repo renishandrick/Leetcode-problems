@@ -44,6 +44,7 @@
 | [1472-design-browser-history](https://github.com/renishandrick/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/renishandrick/Leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/renishandrick/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/renishandrick/Leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/renishandrick/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3895-count-digit-appearances](https://github.com/renishandrick/Leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## Hash Table
