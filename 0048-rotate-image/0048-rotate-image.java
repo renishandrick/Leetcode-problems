@@ -5,10 +5,9 @@ class Solution {
                 int temp=matrix[i][j];
                 matrix[i][j]=matrix[j][i];
                 matrix[j][i]=temp;
-                
             }
-        }
-        for(int i=0;i<matrix.length;i++){
+         }
+         for(int i=0;i<matrix.length;i++){
             int left=0;
             int right=matrix.length-1;
             while(left<right){
@@ -18,6 +17,6 @@ class Solution {
                 left++;
                 right--;
             }
-        }
+         }
     }
 }
