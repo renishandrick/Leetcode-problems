@@ -6,20 +6,20 @@ class Solution {
     }
     public int maxVowels(String s, int k) {
        int max=0;
-       int c=0;
+       int co=0;
        int ws=0;
        for(int we=0;we<s.length();we++){
-            char ch=s.charAt(we);
-            if(vowel(ch)){
-                c++;
+         char c=s.charAt(we);
+         if(vowel(c)){
+            co++;
+         }
+         if(we>k-1){
+            if(vowel(s.charAt(ws))){
+                co--;
             }
-            if(we>=k){
-                if(vowel(s.charAt(ws))){
-                    c--;
-                }
-                ws++;
-            }
-            max=Math.max(max,c);
+            ws++;
+         }
+         max=Math.max(max,co);
        }
        return max;
     }
