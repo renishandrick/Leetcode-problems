@@ -215,6 +215,7 @@
 | [0268-missing-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/renishandrick/Leetcode-problems/tree/main/0319-bulb-switcher/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/renishandrick/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/renishandrick/Leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## Sorting
@@ -262,6 +263,7 @@
 | [0796-rotate-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/renishandrick/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/renishandrick/Leetcode-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -285,6 +287,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/renishandrick/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
