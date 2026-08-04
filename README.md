@@ -61,6 +61,7 @@
 | [0217-contains-duplicate](https://github.com/renishandrick/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/renishandrick/Leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0299-bulls-and-cows](https://github.com/renishandrick/Leetcode-problems/tree/main/0299-bulls-and-cows/) | Medium |
 | [0383-ransom-note](https://github.com/renishandrick/Leetcode-problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/renishandrick/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
@@ -254,6 +255,7 @@
 | [0072-edit-distance](https://github.com/renishandrick/Leetcode-problems/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/renishandrick/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/renishandrick/Leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
+| [0299-bulls-and-cows](https://github.com/renishandrick/Leetcode-problems/tree/main/0299-bulls-and-cows/) | Medium |
 | [0344-reverse-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/renishandrick/Leetcode-problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -269,6 +271,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/renishandrick/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0299-bulls-and-cows](https://github.com/renishandrick/Leetcode-problems/tree/main/0299-bulls-and-cows/) | Medium |
 | [0383-ransom-note](https://github.com/renishandrick/Leetcode-problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Prefix Sum
