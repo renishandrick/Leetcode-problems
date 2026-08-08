@@ -48,6 +48,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/renishandrick/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/renishandrick/Leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/renishandrick/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/renishandrick/Leetcode-problems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3895-count-digit-appearances](https://github.com/renishandrick/Leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -265,6 +266,7 @@
 | [0796-rotate-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/renishandrick/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/renishandrick/Leetcode-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2185-counting-words-with-a-given-prefix](https://github.com/renishandrick/Leetcode-problems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Counting
@@ -402,4 +404,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/renishandrick/Leetcode-problems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 <!---LeetCode Topics End-->
