@@ -43,6 +43,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/renishandrick/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/renishandrick/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/renishandrick/Leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1472-design-browser-history](https://github.com/renishandrick/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/renishandrick/Leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/renishandrick/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -66,6 +67,7 @@
 | [0383-ransom-note](https://github.com/renishandrick/Leetcode-problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/renishandrick/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/renishandrick/Leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@
 | [0414-third-maximum-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/renishandrick/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/renishandrick/Leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,4 +408,8 @@
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/renishandrick/Leetcode-problems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/renishandrick/Leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
