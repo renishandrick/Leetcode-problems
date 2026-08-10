@@ -216,6 +216,7 @@
 | [0062-unique-paths](https://github.com/renishandrick/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/renishandrick/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renishandrick/Leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/renishandrick/Leetcode-problems/tree/main/0319-bulb-switcher/) | Medium |
@@ -260,6 +261,7 @@
 | [0072-edit-distance](https://github.com/renishandrick/Leetcode-problems/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/renishandrick/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/renishandrick/Leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/renishandrick/Leetcode-problems/tree/main/0299-bulls-and-cows/) | Medium |
 | [0344-reverse-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0344-reverse-string/) | Easy |
