@@ -50,6 +50,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/renishandrick/Leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/renishandrick/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/renishandrick/Leetcode-problems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/renishandrick/Leetcode-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3895-count-digit-appearances](https://github.com/renishandrick/Leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/renishandrick/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/renishandrick/Leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/renishandrick/Leetcode-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
