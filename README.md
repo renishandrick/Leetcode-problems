@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/renishandrick/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/renishandrick/Leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/renishandrick/Leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/renishandrick/Leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/renishandrick/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -57,6 +58,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/renishandrick/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/renishandrick/Leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/renishandrick/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/renishandrick/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -343,6 +345,7 @@
 | [0048-rotate-image](https://github.com/renishandrick/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/renishandrick/Leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/renishandrick/Leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/renishandrick/Leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/renishandrick/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0867-transpose-matrix](https://github.com/renishandrick/Leetcode-problems/tree/main/0867-transpose-matrix/) | Easy |
