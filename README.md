@@ -31,6 +31,7 @@
 | [0238-product-of-array-except-self](https://github.com/renishandrick/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/renishandrick/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/renishandrick/Leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/renishandrick/Leetcode-problems/tree/main/0322-coin-change/) | Medium |
 | [0414-third-maximum-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0414-third-maximum-number/) | Easy |
@@ -176,6 +177,7 @@
 | [0189-rotate-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/renishandrick/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/renishandrick/Leetcode-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/renishandrick/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -369,6 +371,7 @@
 | [0074-search-a-2d-matrix](https://github.com/renishandrick/Leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/renishandrick/Leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/renishandrick/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/renishandrick/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -388,6 +391,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -430,4 +434,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/renishandrick/Leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
