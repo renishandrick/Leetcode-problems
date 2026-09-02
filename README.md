@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/renishandrick/Leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0018-4sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/renishandrick/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
@@ -167,6 +168,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/renishandrick/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
@@ -249,6 +251,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/renishandrick/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
