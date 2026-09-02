@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/renishandrick/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/renishandrick/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/renishandrick/Leetcode-problems/tree/main/0051-n-queens/) | Hard |
@@ -386,6 +387,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/renishandrick/Leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
