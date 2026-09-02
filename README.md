@@ -16,6 +16,7 @@
 | [0042-trapping-rain-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/renishandrick/Leetcode-problems/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/renishandrick/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/renishandrick/Leetcode-problems/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/renishandrick/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
@@ -258,6 +259,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/renishandrick/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -284,6 +286,7 @@
 | [0039-combination-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/renishandrick/Leetcode-problems/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/renishandrick/Leetcode-problems/tree/main/0051-n-queens/) | Hard |
 | [0212-word-search-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0212-word-search-ii/) | Hard |
 ## String
