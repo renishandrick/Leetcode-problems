@@ -1,6 +1,6 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int a[]=new int[m+n];
+        int a[]=new int[n+m];
         for(int i=0;i<m;i++){
             a[i]=nums1[i];
         }
