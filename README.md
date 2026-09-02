@@ -53,6 +53,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/renishandrick/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/renishandrick/Leetcode-problems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/renishandrick/Leetcode-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/renishandrick/Leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -231,6 +232,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/renishandrick/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/renishandrick/Leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
