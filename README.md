@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/renishandrick/Leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/renishandrick/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
@@ -164,6 +165,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/renishandrick/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
@@ -320,6 +322,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0649-dota2-senate](https://github.com/renishandrick/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Quickselect
