@@ -26,6 +26,7 @@
 | [0198-house-robber](https://github.com/renishandrick/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/renishandrick/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0212-word-search-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0212-word-search-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/renishandrick/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/renishandrick/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -265,6 +266,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/renishandrick/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/renishandrick/Leetcode-problems/tree/main/0051-n-queens/) | Hard |
+| [0212-word-search-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0212-word-search-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +279,7 @@
 | [0125-valid-palindrome](https://github.com/renishandrick/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/renishandrick/Leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0212-word-search-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/renishandrick/Leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/renishandrick/Leetcode-problems/tree/main/0299-bulls-and-cows/) | Medium |
 | [0344-reverse-string](https://github.com/renishandrick/Leetcode-problems/tree/main/0344-reverse-string/) | Easy |
@@ -310,6 +313,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/renishandrick/Leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0212-word-search-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0212-word-search-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +360,7 @@
 | [0073-set-matrix-zeroes](https://github.com/renishandrick/Leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/renishandrick/Leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/renishandrick/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0212-word-search-ii/) | Hard |
 | [0867-transpose-matrix](https://github.com/renishandrick/Leetcode-problems/tree/main/0867-transpose-matrix/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
