@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/renishandrick/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/renishandrick/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/renishandrick/Leetcode-problems/tree/main/0051-n-queens/) | Hard |
@@ -278,6 +279,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/renishandrick/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/renishandrick/Leetcode-problems/tree/main/0051-n-queens/) | Hard |
 | [0212-word-search-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0212-word-search-ii/) | Hard |
 ## String
