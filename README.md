@@ -14,6 +14,7 @@
 | [0039-combination-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/renishandrick/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/renishandrick/Leetcode-problems/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/renishandrick/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
@@ -95,6 +96,7 @@
 | [0010-regular-expression-matching](https://github.com/renishandrick/Leetcode-problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/renishandrick/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/renishandrick/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/renishandrick/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
@@ -335,6 +337,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/renishandrick/Leetcode-problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0649-dota2-senate](https://github.com/renishandrick/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/renishandrick/Leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Quickselect
