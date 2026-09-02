@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/renishandrick/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/renishandrick/Leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/renishandrick/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/renishandrick/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/renishandrick/Leetcode-problems/tree/main/0051-n-queens/) | Hard |
@@ -162,6 +163,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/renishandrick/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/renishandrick/Leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/renishandrick/Leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/renishandrick/Leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
